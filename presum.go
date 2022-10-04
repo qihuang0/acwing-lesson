@@ -8,6 +8,8 @@ import "fmt"
 
 // 题目 给定一个长度为n的整数序列，然后输入m的询问，每个询问输入一对l,r,求每一对l,r的整数区间和
 
+
+
 func main() {
 	var input []int
 	for {
